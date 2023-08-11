@@ -1,0 +1,4 @@
+.env
+DockerContainers/.env
+filtered.csv
+quotes.csv
